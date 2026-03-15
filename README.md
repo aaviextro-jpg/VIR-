@@ -132,7 +132,7 @@ I already have these installed and running via Ollama:
 ║  │Pexels   │  │ Keyboard  │  │  SadTalker       │            ║
 ║  │G.Trends │  │ Mouse     │  │  MoviePy         │            ║
 ║  └─────────┘  └───────────┘  │  YT / FB Upload  │            ║
-║                               └──────────────────┘           ║
+║                              └──────────────────┘            ║
 ║                                                              ║
 ║   ┌────────────────────────────────────────────────┐         ║
 ║   │  OUTPUT: Coqui TTS Voice Response + Log File   │         ║
