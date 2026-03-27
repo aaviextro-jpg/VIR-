@@ -47,7 +47,7 @@ The name means exactly what it says:
 | Capability | Description |
 |------------|-------------|
 | 🎤 Voice Control | Listens to my voice commands via microphone |
-| 🧠 Local AI Brain | Thinks using Dolphin LLaMA-3 via Ollama — no cloud |
+| 🧠 Local AI Brain | Thinks using Dolphin deepseek-r1:8b via Ollama — no cloud |
 | 🔍 Trend Research | Searches the internet for trending topics automatically |
 | ✍️ Script Writing | Writes full video scripts using my local AI |
 | 😄 Face Video | Generates talking-face videos using my photo via SadTalker |
@@ -117,7 +117,7 @@ I already have these installed and running via Ollama:
 ║                     ▼                                        ║
 ║          ┌──────────────────────┐                            ║
 ║          │      VIR BRAIN       │                            ║
-║          │   Dolphin LLaMA-3    │  ← Ollama (local)          ║
+║          │   deepseek-r1:8b     │  ← Ollama (local)          ║
 ║          │   Intent Classifier  │                            ║
 ║          │   Task Planner       │                            ║
 ║          └──────────┬───────────┘                            ║
